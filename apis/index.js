@@ -70,6 +70,7 @@ var APIs = {
   'calendar': requireAPI('calendar'),
   'civicinfo': requireAPI('civicinfo'),
   'cloudmonitoring': requireAPI('cloudmonitoring'),
+  'cloudprint': requireAPI('cloudprint'),
   'compute': requireAPI('compute'),
   'content': requireAPI('content'),
   'coordinate': requireAPI('coordinate'),
